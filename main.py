@@ -11,6 +11,7 @@ from kivy.metrics import dp
 from kivy.graphics.vertex_instructions import Rectangle, Line
 from kivy.core.window import Window
 
+print('Bla')
 class MainWidget(GridLayout):
 
     tiles = []
